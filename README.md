@@ -1,0 +1,2 @@
+# GoogleDataAnalytics_CaseStudy
+Case study as based on Learn with Google Data Analytics Specialization [Capstone](https://d3c33hcgiwev3.cloudfront.net/ymogSWd_R2ujQawZle3_rQ_12891ea7af0a487bad109a95d513b2f1_DA-C8-Case-Study-1-PDF.pdf?Expires=1698192000&Signature=Me0B~9IBdwrJZmTNa-NrlfT78owxIGCGUyG8pKLYFc5xai07Y0XCqyrZ4SGBU6YLILI4NOO2sO4L-ygL6zAjXn8jXVmoqZ~hOxl5Eoa0kP7eJDQVyp5JbSWfzMDch-j0L6rO1VdzmeQk8pOWIZGHrxDjhNEhRU1fmi3-XqZVm6o_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
